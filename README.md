@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Data Structures using Python<br>- 🌱 I’m currently learning Java Full Stack<br>- 👯 I’m looking to collaborate on Java Full Stack<br>- 🤔 I’m looking for help with Java Full Stack<br>- 💬 Ask me about Data structurs Using Python<br>- 📫 How to reach me: valsasaikiran26@gmail.com<br>- 😄 Pronouns: Mr.Saikiran<br>- ⚡ Fun fact: Enjoy Coding
+- 🔭 I’m currently working on Data Structures using Java<br>- 🌱 I’m currently learning Java Full Stack<br>- 👯 I’m looking to collaborate on Java Full Stack<br>- 🤔 I’m looking for help with Java Full Stack<br>- 💬 Ask me about Data structurs Using Java<br>- 📫 How to reach me: valsasaikiran26@gmail.com<br>- 😄 Pronouns: Mr.Saikiran<br>- ⚡ Fun fact: Enjoy Coding
 
 
 ## 🌐 Socials:
